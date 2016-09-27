@@ -1,8 +1,8 @@
 body {
-  color: DarkBlue;
-  font-family: 'Open Sans', sans-serif;
+  color: darkBlue;
   margin: 10px 50px 10px 50px;
   background-color: ivory;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2 {
