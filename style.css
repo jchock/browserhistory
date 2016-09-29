@@ -1,12 +1,13 @@
 body {
-  color: darkBlue;
+  color: white;
   margin: 10px 50px 10px 50px;
-  background-color: ivory;
+  background-color: black;
   font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2 {
   font-family: 'Oswald', sans-serif;
+  color: white;
 }
 
 img {
@@ -21,8 +22,7 @@ img {
 }
 
 .center {
-  margin-left: 300px;
-  margin-right: 300px;
+  margin: auto;
   width: 300px;
   padding: 1em;
 }
@@ -33,15 +33,3 @@ img {
   padding: 1em;
 }
 
-#navbar ul {
-  list-style-type: none;
-}
-
-#navbar li {
-  display: inline;
-}
-
-#navbar a {
-  margin-left: 65px;
-  margin-right: 65px;
-}
